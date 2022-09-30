@@ -1,0 +1,12 @@
+2022-09-23 16:02:58,257 - BasePage.py:[75] - [INFO]  - Moving to an element: newCar_XPATH
+2022-09-23 16:02:52022-09-23 16:03:10,081 - test_carwale.py:[59] - [INFO]  - ******Inside Car Names and Prices Testt*********
+2022-09-23 16:03:23,754 - test_carwale.py:[59] - [INFO]  - ******Inside Car Names and Prices Testt*********
+2022-09-23 16:03:37,508 - test_carwale.py:[59] - [INFO]  - ******Inside Car Names and Prices Testt*********
+g on an element: findNewCard_XPATH
+2022-09-23 16:03:12,108 - BasePage.py:[27] - [INFO]  - Clicking on an element: toyota_XPATH
+2022-09-23 16:03:24,500 - BasePage.py:[75] - [INFO]  - Moving to an element: newCar_XPATH
+2022-09-23 16:03:24,991 - BasePage.py:[27] - [INFO]  - Clicking on an element: findNewCard_XPATH
+2022-09-23 16:03:26,715 - BasePage.py:[27] - [INFO]  - Clicking on an element: honda_XPATH
+2022-09-23 16:03:38,071 - BasePage.py:[75] - [INFO]  - Moving to an element: newCar_XPATH
+2022-09-23 16:03:38,539 - BasePage.py:[27] - [INFO]  - Clicking on an element: findNewCard_XPATH
+2022-09-23 16:03:39,394 - BasePage.py:[27] - [INFO]  - Clicking on an element: BMW_XPATH

@@ -1,0 +1,15 @@
+pip install -r requirements.txt
+
+pytest test_signup.py --alluredir="./allurereports"
+(try)pytest test_carwale.py --alluredir="../Reports"
+
+allure serve ./allurereports
+(try) allure serve "../Reports"
+test
+
+1. git status
+2. git add -A (all files are added to git)
+3. git commit -m "msg"
+4. git branch -M main
+5. git remote add origin https://github.com/joselitan/PageObjectModelFramework.git
+6. git push -u origin main

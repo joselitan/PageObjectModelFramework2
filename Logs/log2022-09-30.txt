@@ -1,0 +1,2 @@
+2022-09-30 17:39:33,293 - test_carwale.py:[59] - [INFO]  - ******Inside Car Names and Prices Testt*********
+2022-09-30 17:39:51,034 - test_carwale.py:[59] - [INFO]  - ******Inside Car Names and Prices Testt*********
